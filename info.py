@@ -81,6 +81,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/HA_Bots_Support')
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/yourx")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/HA_Bots')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/HA_Films_World')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
